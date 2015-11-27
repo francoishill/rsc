@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"code.google.com/p/rsc/cc"
+	"github.com/francoishill/rsc/cc"
 )
 
 type Config struct {

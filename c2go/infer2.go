@@ -8,8 +8,8 @@ import (
 	"sort"
 	"strings"
 
-	"code.google.com/p/rsc/c2go"
-	"code.google.com/p/rsc/cc"
+	"github.com/francoishill/rsc/c2go"
+	"github.com/francoishill/rsc/cc"
 )
 
 // A flowSyntax is a node representing the flow of a value

@@ -10,10 +10,10 @@ import (
 	"strconv"
 	"strings"
 
-	"code.google.com/p/rsc/c2go/liblink"
-	"code.google.com/p/rsc/c2go/liblink/amd64"
-	"code.google.com/p/rsc/c2go/liblink/arm"
-	"code.google.com/p/rsc/c2go/liblink/x86"
+	"github.com/francoishill/rsc/c2go/liblink"
+	"github.com/francoishill/rsc/c2go/liblink/amd64"
+	"github.com/francoishill/rsc/c2go/liblink/arm"
+	"github.com/francoishill/rsc/c2go/liblink/x86"
 )
 
 var arch *liblink.LinkArch

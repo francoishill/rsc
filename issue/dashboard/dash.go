@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"code.google.com/p/rsc/appfs/fs"
-	"code.google.com/p/rsc/issue"
+	"github.com/francoishill/rsc/appfs/fs"
+	"github.com/francoishill/rsc/issue"
 )
 
 type Point struct {
